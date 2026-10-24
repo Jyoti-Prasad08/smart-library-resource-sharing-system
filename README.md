@@ -36,9 +36,9 @@ The batch file compiles the Java source files and opens the Swing window.
 ## Sample members and resources
 
 Members:
-- `S101` — Aarav Mehta
-- `S102` — Priya Shah
-- `S103` — Rohan Patil
+- `RBT25CB060` — Jyoti Prasad
+- `RBT25CB059` — Pawan Ingle
+- `RBT25CB058` — Mohit Patil
 
 Resources:
 - `B101` — Java Programming
